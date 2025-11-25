@@ -66,7 +66,7 @@ Dashboard interaktif dibuat untuk menampilkan insight berikut:
 - Python: Pandas, NumPy
 - SQL: PostgreSQL
 - Visualization: Power BI
-- Tools: Jupyter Notebook, Power Query  
+- Tools: Jupyter Notebook  
 
 ## Key Outcomes
 - Berhasil mengolah dan menganalisis 3.900+ transaksi
